@@ -1,0 +1,1 @@
+http://www.select2web.com/php/phpmailer-smtp-error-could-not-connect-to-smtp-host.html
